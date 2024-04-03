@@ -2,7 +2,7 @@
 
 O seguinte projeto foi feito no âmbito da UC de Computação Móvel na ESTS no Instituto Politécnico de Setúbal.
 
-O Dingo é um pet virtual, um computador com vida, este terá varios atributos para manter de forma ao Dingo continuar saúdavel. O utilizador poderá assim ganhar moedas de forma a alterar o visual e peformance do Dingo.
+O Dingo é um pet virtual, um computador com vida, que terá vários atributos para manter de forma a que o Dingo permaneça saudável. O utilizador poderá assim ganhar moedas de forma a alterar o visual e peformance do Dingo.
 Também será possivel deixar o utilizador jogar minijogos no Dingo.
 
 -*Preview do DingoApp*-
