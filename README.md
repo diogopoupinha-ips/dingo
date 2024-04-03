@@ -9,21 +9,21 @@ Também será possivel deixar o utilizador jogar minijogos no Dingo.
 
 ***Público alvo*** - Esta aplicação foi desenhada para qualquer faixa etária.
 
-## Descrição das funcionalidades específicas:
+## Descrição das funcionalidades específicas
 
-### Atributos: 
+### Atributos
 - Qualidade (semelhante á vida em outros jogos).
 - Performance (diminui ao longo do tempo).
 - Felicidade.
 
 -*imagem ou gif dos atributos*-
 
-### Dingo Coins: 
+### Dingo Coins
 • Poderão ser usadas para comprar upgrades, componentes de computador, acessórios, que permitem melhorar a Qualidade e a Performance do Dingo.
 
 -*imagem ou gif de uma dingo coin*-
 
-### Sensores:
+### Sensores
 
 ***GPS e Localização*** - será usado para o Dingo dizer alguns factos interessantes caso esteja próximo de alguns monumentos importantes.
 
@@ -50,11 +50,11 @@ Também será possivel deixar o utilizador jogar minijogos no Dingo.
 -*demonstração no jogo*-
 
 
-### Base de Dados:
+### Base de Dados
 - Uma Base de Dados não-local será usada para armazenar as coordenadas dos monumentos importantes e respetivos factos que o Dingo dirá ao utilizador, todas as frases que o Dingo pode dizer de acordo com os seus atributos e guardar o progresso do utilizador.
 
 
-## Descrição das funcionalidades gerais:
+## Descrição das funcionalidades gerais
 
 -	A aplicação permitirá a qualquer utilizador realizar registo na aplicação, podendo recorrer a outras plataformas, como Google, Facebook, Apple, etc.
 
@@ -67,7 +67,7 @@ Também será possivel deixar o utilizador jogar minijogos no Dingo.
 -*mostrar em imagens*-
 
 
-## Estudo da originalidade e indicação das mais-valias :
+## Estudo da originalidade e indicação das mais-valias
 
 Já existe uma enorme quantidade de pets virtuais com as suas mecânicas originais. Mas, até agora, ainda não existe conhecimento de um pet virtual que se assemelhe a um computador.
 Uma vez que a nossa área de interesse circula à volta de dispositivos elétricos, decidimos criar um computador como pet virtual. 
